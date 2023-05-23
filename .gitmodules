@@ -1,0 +1,3 @@
+[submodule "Bulk_Sms"]
+	path = Bulk_Sms
+	url = git@github.com:patrickwide/Bulk_Sms.git
